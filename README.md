@@ -19,7 +19,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/9VnQ1okmYsIAQbxndU/giphy.gif" width="500" height="300"/>
 </div>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
