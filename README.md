@@ -18,9 +18,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
 
-<div align=" left">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-  <img src="https://raw.githubusercontent.com/Tworita99/Tworita99/main/Untitled%20design.gif?token=GHSAT0AAAAAABVXCD5XNSD7V2H2R3B5ERGWYV5JHMQ" width="500" height="300"/>
 </div>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
