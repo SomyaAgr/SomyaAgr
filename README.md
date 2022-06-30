@@ -61,8 +61,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 ## Follow me on GitHub to display your profile 
-![Metrics](https://metrics.lecoq.io/Tworita99 template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
-
+                                                                                                                         
+![Metrics](https://metrics.lecoq.io/Tworita99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=100&people.size=100&people.types=followers&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+                                                                                                                         
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
 <h1>
   <b>Connect With Me</b>
@@ -70,9 +71,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </h1>
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/923248681354924092">
-    <img src="https://img.shields.io/badge/-navy?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/DISCORD-navy?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/Tworita99">
-   <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+   <img width="60" height="60" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png" alt="Twitter Badge"/>
   </a>
  </div>
