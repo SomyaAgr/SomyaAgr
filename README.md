@@ -23,3 +23,19 @@
 </div>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Twiiter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Tworita99) from India.
+:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Hakerrranks and read tech articles.
+
+- :mailbox:How to reach me: [![Twiiter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Tworita99)
+
