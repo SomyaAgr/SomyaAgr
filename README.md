@@ -58,11 +58,7 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tworita99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
-                                                                                                                      
-                                                                                                                         
-## Follow me on GitHub to display your profile 
-![Metrics](https://metrics.lecoq.io/Tworita99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
 <h1>
