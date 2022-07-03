@@ -61,7 +61,8 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END --                                                                                                                       
+- [New start](https://dev.to/tworita99/new-start-fkh)
+<!-- BLOG-POST-LIST:END --                                                                                                                       
                                                                                                                          
 ## Follow me on GitHub to display your profile 
 ![Metrics](https://metrics.lecoq.io/Tworita99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FCalcutta)
