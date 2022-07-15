@@ -3,7 +3,7 @@
  </div>
 
 <div id="badges" align="center">
-  <a href="https://discordapp.com/users/987600208689004584">
+  <a href="https://discordapp.com/users/923248681354924092">
     <img src="https://img.shields.io/badge/DISCORD-navy?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/Tworita99">
