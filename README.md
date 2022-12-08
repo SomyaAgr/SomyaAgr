@@ -56,9 +56,6 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <b>Connect With Me 🤝</b>
 </h1>
 <div id="badges" align="center">
-  <a href="https://discordapp.com/users/987600208689004584">
-    <img width "60" height="60" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" alt="Discord Badge"/>
-  </a>
   <a href="https://twitter.com/Tworita99">
    <img width="60" height="60" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter Badge"/>
   </a>
