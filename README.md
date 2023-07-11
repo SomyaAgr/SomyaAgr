@@ -8,9 +8,8 @@
   hey their Somya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/9VnQ1okmYsIAQbxndU/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
@@ -22,8 +21,6 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
-
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Tworita99)
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
@@ -45,21 +42,25 @@ I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />                  
 :fire: My Stats :
 <div>
-    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tworita99&theme=dark&hide_border=true"/>
+    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SomyaAgr&theme=dark&hide_border=true"/>
 </div>
     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tworita99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaAgr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
 <h1>
   <b>Connect With Me 🤝</b>
 </h1>
-<div id="badges" align="center">
-  <a href="https://twitter.com/Tworita99">
-   <img width="60" height="60" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter Badge"/>
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/somya-agrawal-5178801b2">
+   <img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" alt="Linkedln Badge"/>
   </a>
- </div>
+  <a href="mailto:agrawal.26.saumya@gmail.com">
+   <img width="40" height="40" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-people-widget-now-lets-brands-highlight-their-10.png"         alt="Gmail Badge"/>
+  </a>
+</div>
+
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
 
 <p align="center">
