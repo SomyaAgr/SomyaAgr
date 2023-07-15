@@ -1,71 +1,71 @@
-<div id="header" align="center" >
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- </div>
- <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tworita99&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey their Somya
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
-:woman_technologist: About Me :
+<!-- welcome message -->
+<h2>I'm Somya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently working in python and developing some projects .
+###
 
-- :seedling: Exploring Technical Content Writing.
+## Java Test Engineer and Web Developer😍😍
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- 🌱 I’m currently learning Web Developement
+- 💬 Ask me about Java
+- 📫 Email agrawal.26.saumya@gmail.com
+- ⚡ Fun fact I love to code!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
+<!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
 
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+## Connect with Me
 
-:hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="40" height="40"/>&nbsp;                             
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomyaAgr)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-agrawal-5178801b2)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal.26.saumya@gmail.com)
 
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />                  
-:fire: My Stats :
-<div>
-    <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SomyaAgr&theme=dark&hide_border=true"/>
-</div>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomyaAgr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Languages and Tools:
 
+📋 Languages
 
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
-<h1>
-  <b>Connect With Me 🤝</b>
-</h1>
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/somya-agrawal-5178801b2">
-   <img width="40" height="40" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" alt="Linkedln Badge"/>
-  </a>
-  <a href="mailto:agrawal.26.saumya@gmail.com">
-   <img width="40" height="40" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-people-widget-now-lets-brands-highlight-their-10.png"         alt="Gmail Badge"/>
-  </a>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=f89820)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffde57)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />  
+💾 Databases
 
-<p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
-  
-  <br>
-  <strong>Happy Coding</strong> ❤️
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+🎨 Design
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+💻 IDEs/Editors
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+
+🧪 Testing 
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+🕓 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+🤖 Artificial Intelligence and Bots
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+## My Stats:
+<p align="left"> <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Somya" /></p>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
