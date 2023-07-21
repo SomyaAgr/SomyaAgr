@@ -64,8 +64,8 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Stats:
-<p align="left"> <img width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
+<p align="left"> <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
 
-<p align="left">&nbsp;<img width="47%" src="https://github-readme-stats.vercel.app/api?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Somya" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Somya" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
