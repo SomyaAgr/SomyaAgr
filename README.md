@@ -10,7 +10,7 @@
 - 💬 Ask me about Java
 - 📫 Email agrawal.26.saumya@gmail.com
 - ⚡ Fun fact I love to code!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="taherahmedashraf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
 
 ## Connect with Me
