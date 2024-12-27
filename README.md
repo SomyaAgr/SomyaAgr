@@ -4,12 +4,14 @@
 
 ###
 
-## Java Test Engineer and Web Developer😍😍
+## Quality Assurance Engineer @SperidianTechnology😍😍
 
-- 🌱 I’m currently learning Web Developement
-- 💬 Ask me about Java
+- 🌱 I’m currently learning AI Tool 
+- 💬 Ask me about Java , Selenium Java , BDD frameworks
 - 📫 Email agrawal.26.saumya@gmail.com
-- ⚡ Fun fact I love to code!
+- 💻 I know how to write Regression Test Suites
+- 🌱 How to write User Stories in  'GIVEN , WHEN , THEN '  format
+- ⚡ Fun fact I love to Test!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
 
