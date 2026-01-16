@@ -6,10 +6,10 @@
 
 ## Quality Assurance Engineer @SperidianTechnology😍😍
 
-- 🌱 I’m currently learning AI Tool 
-- 💬 Ask me about Java , Selenium Java , BDD frameworks
+- 🌱 I’m currently learning API Testing both with POSTMAN and RestAssured
+- 💬 Ask me about Java , Selenium WebDriver , BDD frameworks, WebTesting, ISTQB CTFL Preparations
 - 📫 Email agrawal.26.saumya@gmail.com
-- 💻 I know how to write Regression Test Suites
+- 💻 I know how to write Test Cases with 
 - 🌱 How to write User Stories in  'GIVEN , WHEN , THEN '  format
 - ⚡ Fun fact I love to Test!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
