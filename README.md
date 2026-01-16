@@ -1,10 +1,12 @@
 
 <!-- welcome message -->
-<h2>I'm Somya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>I'm Somya Agrawal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h3> Call me Tworita. </h3>
 
 ###
 
-## Quality Assurance Engineer @SperidianTechnology😍😍
+## I'm a ISTQB Certified Test Engineer 
+Junior Test Engineer @SperidianTechnology😍😍
 
 - 🌱 I’m currently learning API Testing both with POSTMAN and RestAssured
 - 💬 Ask me about Java , Selenium WebDriver , BDD frameworks, WebTesting, ISTQB CTFL Preparations
