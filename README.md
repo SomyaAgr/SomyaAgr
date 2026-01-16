@@ -5,11 +5,13 @@
 I'm a ISTQB Certified Test Engineer 
 <br> <br>Junior Test Engineer @SperidianTechnology😍😍
 
-- 🌱 I’m currently learning API Testing both with POSTMAN and RestAssured and Performance Testing with Jmeter
+- 🌱 I’m currently learning API Testing with zboth POSTMAN and RestAssured and Performance Testing using Jmeter
 - 💬 Ask me about Core Java , Selenium WebDriver , BDD frameworks, WebTesting, and ISTQB CTFL Preparations
 - 📫 Email agrawal.26.saumya@gmail.com
-- 💻 I know how to Smoke Testing, Fucntional Testing, Web Testing, Test Design Techniques, Functional Points calculations, Log Defects, and Retesting 
-- 🌱 How to write User Stories in  BDD formats, 
+- 💻 I know following type of testing : Smoke Testing, Fucntional Testing, Web Testing, Static Testing, Regression Testing, Exploratory Tetsing, End-to-End Testing
+- I know these all testing practices: Test Design Techniques (i.e EP, BVA, State Transitioning, Decision Table), Functional Points calculationsWrites
+- 🌱 I can raise defects, I can write TC in  BDD formats, I can do RCA once the sprints get completed
+- Defect Metrics Analysis i.e. DLR, DRE, I can create DLR and DRE graphs, I can calculate Velocity Metrices for my team and for project
 - ⚡ Fun fact I'm love coding
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
