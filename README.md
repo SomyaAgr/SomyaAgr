@@ -1,27 +1,19 @@
 
 <!-- welcome message -->
-<h2>I'm Somya Agrawal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<h3> Call me Tworita. </h3>
+<h2>Hey Here Somya Agrawal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
 
-###
+I'm a ISTQB Certified Test Engineer 
+<br> <br>Junior Test Engineer @SperidianTechnology😍😍
 
-## I'm a ISTQB Certified Test Engineer 
-Junior Test Engineer @SperidianTechnology😍😍
-
-- 🌱 I’m currently learning API Testing both with POSTMAN and RestAssured
-- 💬 Ask me about Java , Selenium WebDriver , BDD frameworks, WebTesting, ISTQB CTFL Preparations
+- 🌱 I’m currently learning API Testing both with POSTMAN and RestAssured and Performance Testing with Jmeter
+- 💬 Ask me about Core Java , Selenium WebDriver , BDD frameworks, WebTesting, and ISTQB CTFL Preparations
 - 📫 Email agrawal.26.saumya@gmail.com
-- 💻 I know how to write Test Cases with 
-- 🌱 How to write User Stories in  'GIVEN , WHEN , THEN '  format
-- ⚡ Fun fact I love to Test!
+- 💻 I know how to Smoke Testing, Fucntional Testing, Web Testing, Test Design Techniques, Functional Points calculations, Log Defects, and Retesting 
+- 🌱 How to write User Stories in  BDD formats, 
+- ⚡ Fun fact I'm love coding
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
 
-## Connect with Me
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomyaAgr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-agrawal-5178801b2)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawal.26.saumya@gmail.com)
 
 ## 💻 Languages and Tools:
 
@@ -29,11 +21,8 @@ Junior Test Engineer @SperidianTechnology😍😍
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=f89820)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffde57)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![ Core JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=f89820)
+
 
 💾 Databases
 
