@@ -1,62 +1,64 @@
+<H2> Intro </H2>
+👋 Hi, I’m Somya Agrawal 
+Junior Test Engineer | ISTQB CTFL v4.0 Certified | QA & Automation Enthusiast
+ 
+ I am a detail-oriented QA Engineer with hands-on experience in manual testing, API testing, and test automation for web applications. I have worked across multiple environments and collaborated with clients, BAs, and developers to ensure high-quality software delivery. I enjoy breaking applications, finding edge cases, and continuously improving test coverage. 
 
-<!-- welcome message -->
-<h2>Hey Here Somya Agrawal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
+<H2> 🧪 Testing Expertise </H2>
 
-I'm a ISTQB Certified Test Engineer 
-<br> <br>Junior Test Engineer @SperidianTechnology😍😍
+- Manual Testing: Functional, Regression, Smoke, Sanity, Exploratory
+- Test Design Techniques: Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Decision Tables, State Transition
+- API Testing: REST APIs, request/response validation, basic load testing
+- Automation Testing: Selenium WebDriver (Java), Playwright (TypeScript)
+- Defect Management: Bugzilla (defect life cycle, severity & priority)
+- Process Knowledge: SDLC, STLC, Agile / Scrum
 
-- 🌱 I’m currently learning API Testing with zboth POSTMAN and RestAssured and Performance Testing using Jmeter
-- 💬 Ask me about Core Java , Selenium WebDriver , BDD frameworks, WebTesting, and ISTQB CTFL Preparations
-- 📫 Email agrawal.26.saumya@gmail.com
-- 💻 I know following type of testing : Smoke Testing, Fucntional Testing, Web Testing, Static Testing, Regression Testing, Exploratory Tetsing, End-to-End Testing
-- I know these all testing practices: Test Design Techniques (i.e EP, BVA, State Transitioning, Decision Table), Functional Points calculationsWrites
-- 🌱 I can raise defects, I can write TC in  BDD formats, I can do RCA once the sprints get completed
-- Defect Metrics Analysis i.e. DLR, DRE, I can create DLR and DRE graphs, I can calculate Velocity Metrices for my team and for project
-- ⚡ Fun fact I'm love coding
+<h2> 🛠 Tools & Technologies </h2> 
+
+- Languages: Java, TypeScript, Basic Python
+- Automation Tools: Selenium WebDriver, Playwright
+- API Tools: Postman, RestAssured
+- Performance Testing: Apache Jmeter
+- Defect Tracking: Bugzilla
+- Version Control: Git, GitHub
+- Others: HTML, CSS, SQL (basic)
+
+<H2> 📂 Project Portfolio </H2>
+
+- <b> JPetStore – Manual Testing Project </b>
+   * Designed and executed 200+ functional test cases using EP, BVA, and negative scenarios
+   * Performed end-to-end testing across core application workflows
+   * Logged and tracked defects using Bugzilla
+   * Focused on maximum test coverage and requirement validation
+- <b> Amazon.com – Selenium Automation (Practice Project) </b>
+    * Automated key user flows such as search, navigation, and validation using Selenium WebDriver with Java
+    * Implemented basic test scripts to understand element handling, waits, and assertions
+    * Used as a learning project to strengthen automation fundamentals
+- <b> WCF to REST API Testing</b>
+    * Performed API testing for services migrated from WCF to REST
+    * Validated request/response data, status codes, and business rules
+    * Executed basic load testing to verify API stability and performance
+- <b> OpenSeaio-Mt  </b>
+    * Created Test Plan this is a 
+
+<h2> 🎓 Certifications & Training </h2>
+  - ISTQB Certified Tester – Foundation Level (CTFL) v4.0
+  - QA Workshop: Writing effective test cases with maximum coverage
+  - Hands-on training in API Testing, Selenium Java, and Automation Basics
+
+<h2> 🌱 Currently Learning </h2>
+   - Advanced Playwright (TypeScript) automation
+   - Framework design and test reporting
+   - CI/CD integration for automation tests
+   
+<h2> 📫 Connect With Me </h2>
+   - 💼 LinkedIn: https://www.linkedin.com/in/somyaagrawal2/
+   - 📧 Email: agrawal.26.saumya@gmail.com
+
+⭐ This repository showcases my QA learning journey, practice projects, and automation experiments. I am continuously updating it as I grow as a Test Engineer.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
-
-
-## 💻 Languages and Tools:
-
-📋 Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ Core JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=f89820)
-
-
-💾 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-
-🎨 Design
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-💻 IDEs/Editors
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-
-🧪 Testing 
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-🕓 Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-🤖 Artificial Intelligence and Bots
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Stats:
 <p align="left"> <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=SomyaAgr&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Somya" /></p>
