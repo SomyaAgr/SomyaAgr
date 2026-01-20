@@ -79,4 +79,4 @@ Junior Test Engineer | ISTQB CTFL v4.0 Certified | QA & Automation Enthusiast <b
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tworita99&label=Profile%20views&color=E4405F&style=flat" alt="Somya Agrawal" /> </p>
 <!--<p align="left"> <img src="https://www.codewars.com/users/SomyaAgr/badges/micro" alt="" /> </p>-->
 
-<p "font-size: 60px:"> <b> Thanks for Visiting me :) </b> </p>
+<p "font-size: 60px:"> <b> Thanks for Visiting :) </b> </p>
